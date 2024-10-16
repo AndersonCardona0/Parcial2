@@ -2,6 +2,7 @@ Este proyecto está siendo desarrollado por:
 Miguel Angel Restrepo Saavedra  (Product Owner)
 Anderson Camilo Cardona Castro (Scrum Master)
 Erik Santigo Garcia Gonzáles 
+
 RIPA_SGI es un sistema de gestión de inventario diseñado para optimizar el control y seguimiento de productos y ventas en una panadería. Este sistema facilita a los empleados y administradores monitorear y analizar las transacciones diarias, facilitando así el seguimiento de las ventas en tiempo real y generando informes detallados para la toma de decisiones estratégicas.
 RIPA_SGI cuenta con un modulo de gestión de inventario que tiene como características principales:
 
